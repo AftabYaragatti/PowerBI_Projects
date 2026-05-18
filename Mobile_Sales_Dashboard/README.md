@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=240&section=header&text=Mobile%20Sales%20Dashboard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Project%20using%20Python%20%26%20Power%20BI&descAlignY=58&descAlign=50"/>
-
 # 📊 Mobile Sales Dashboard
 
 ### 🚀 Data Analytics & Visualization Project
