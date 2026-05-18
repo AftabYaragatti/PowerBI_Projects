@@ -13,13 +13,13 @@
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<br><br>
+<br>
 
-<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<a href="Mobile_Sales_Dashboard">
 <img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="Mobile_Sales_Dashboard/Mobile Sales Dashboard.pbix">
 <img src="https://img.shields.io/badge/🚀_Live_Dashboard-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -97,15 +97,15 @@ This project demonstrates practical implementation of:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Dashboard Preview"/>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/Mobile_Sales_Dashboard/Dashboard.png" width="90%" alt="Dashboard Preview"/>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-102.jpg" width="90%" alt="Dashboard Preview"/>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/Mobile_Sales_Dashboard/MTD Dashboard.png" width="90%" alt="Dashboard Preview"/>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-103.jpg" width="90%" alt="Dashboard Preview"/>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/Mobile_Sales_Dashboard/Same Last Year Dashboard.png" width="90%" alt="Dashboard Preview"/>
 
 </div>
 
@@ -151,22 +151,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Mobile-Sales-Dashboard/
-│
-├── Dashboard/
-├── Dataset/
-├── Output/
-├── Python Files/
-├── Power BI Files/
-├── README.md
-└── requirements.txt
-```
-
----
-
 # 🚀 Future Enhancements
 
 ✔ Add Real-Time Data Integration  
@@ -197,37 +181,37 @@ Mobile-Sales-Dashboard/
 <img src="https://img.shields.io/badge/💻_GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://aftabyaragatti.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/aftab-yaragatti">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/ak_aftab143">
 <img src="https://img.shields.io/badge/📸_Instagram-ak__aftab143-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="mailto:aftabyaragatto80@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-aftabyaragatto80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="tel:+916362099891">
 <img src="https://img.shields.io/badge/📱_Contact-6362099891-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📍_Location-Chikodi,_Belagavi,_Karnataka,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
