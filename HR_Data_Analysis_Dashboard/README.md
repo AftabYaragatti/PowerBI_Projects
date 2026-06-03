@@ -13,11 +13,11 @@
 
 <br><br>
 
-<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<a href="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/">
 <img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Dashboard_Video.mp">
 <img src="https://img.shields.io/badge/📊_View_Dashboard-00BFFF?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </a>
 
@@ -93,7 +93,9 @@ The project enables HR teams and management to make informed decisions through d
 
 <div align="center">
 
-<img src="YOUR_HR_DASHBOARD_IMAGE_LINK" width="90%" alt="HR Data Analysis Dashboard"/>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Overview.png" width="90%" alt="HR Data Analysis Dashboard"/>
+<br>
+https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Dashboard_Video.mp4
 
 </div>
 
