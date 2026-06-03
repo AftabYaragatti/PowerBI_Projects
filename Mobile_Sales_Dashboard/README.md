@@ -87,8 +87,11 @@ This project transforms raw sales data into meaningful business insights through
 
 <div align="center">
 
-<img src="YOUR_DASHBOARD_IMAGE_LINK" width="90%" alt="Mobile Sales Dashboard"/>
-
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/Mobile_Sales_Dashboard/Dashboard.png" width="90%" alt="Mobile Sales Dashboard"/>
+<br>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/Mobile_Sales_Dashboard/MTD%20Dashboard.png" width="90%" alt="Mobile Sales Dashboard"/>
+<br>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/Mobile_Sales_Dashboard/Same%20Last%20Year%20Dashboard.png" width="90%" alt="Mobile Sales Dashboard"/>
 </div>
 
 ---
@@ -165,22 +168,6 @@ The following visualizations were created:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Mobile-Sales-Dashboard/
-│
-├── Dataset/
-├── Dashboard/
-├── Output/
-├── Notebook/
-├── Images/
-├── README.md
-└── requirements.txt
-```
-
----
-
 # 🚀 Applications
 
 📊 Business Analytics
@@ -213,23 +200,6 @@ Mobile-Sales-Dashboard/
 
 ---
 
-# 📚 Skills Demonstrated
-
-* Data Cleaning
-* Data Analysis
-* Data Visualization
-* Dashboard Development
-* Business Intelligence
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Power BI
-* Problem Solving
-* Reporting & Analytics
-
----
-
 # 👨‍💻 Developed By
 
 ## Aftab Yaragatti
@@ -246,35 +216,35 @@ Mobile-Sales-Dashboard/
 <img src="https://img.shields.io/badge/💻_GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://aftabyaragatti.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/aftab-yaragatti">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/ak_aftab143">
 <img src="https://img.shields.io/badge/📸_Instagram-ak__aftab143-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="mailto:aftabyaragatto80@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-aftabyaragatto80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📱_Contact-6362099891-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📍_Location-Chikodi,_Belagavi,_Karnataka,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
