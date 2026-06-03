@@ -102,7 +102,7 @@ The Mobile Sales Dashboard provides comprehensive insights into mobile sales per
 
 <div align="center">
 
-<img src="YOUR_HR_DASHBOARD_IMAGE_LINK" width="90%" alt="HR Dashboard"/>
+<img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Overview.png" width="90%" alt="HR Dashboard"/>
 
 </div>
 
