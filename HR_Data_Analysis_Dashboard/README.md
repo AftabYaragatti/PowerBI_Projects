@@ -95,6 +95,11 @@ The project enables HR teams and management to make informed decisions through d
 
 <img src="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Overview.png" width="90%" alt="HR Data Analysis Dashboard"/>
 <br>
+<p align="center">
+  <a href="https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Dashboard_Video.mp4">
+    <img src="https://raw.githubusercontent.com/AftabYaragatti/PowerBI_Projects/main/HR_Data_Analysis_Dashboard/Dashboard.png" width="90%" alt="Watch Dashboard Demo"/>
+  </a>
+</p>
 https://github.com/AftabYaragatti/PowerBI_Projects/blob/main/HR_Data_Analysis_Dashboard/HR_Data_Analysis_Dashboard_Video.mp4
 
 </div>
