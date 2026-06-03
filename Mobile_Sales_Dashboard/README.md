@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1200&color=00BFFF&center=true&vCenter=true&width=1000&lines=📊+Mobile+Sales+Dashboard;📈+Data+Analytics+%26+Visualization+Project;🐍+Python+%7C+Pandas+%7C+NumPy;📊+Matplotlib+%7C+Seaborn+%7C+Power+BI;🚀+Business+Insights+Through+Data" alt="Typing SVG" />
-
-<br>
-
 # 📊 Mobile Sales Dashboard
 
 ### 🚀 Data Analytics & Visualization Project using Python and Power BI
@@ -17,7 +13,7 @@
 
 <br><br>
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/AftabYaragatti/PowerBI_Projects/tree/main/Mobile_Sales_Dashboard">
 <img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
